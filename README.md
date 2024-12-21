@@ -1,1 +1,1 @@
-# linear-and-loguistic-ML-model
+# (3 types are applied)linear-ML-model
